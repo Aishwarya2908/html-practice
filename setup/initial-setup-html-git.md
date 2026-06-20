@@ -111,6 +111,8 @@ After installing Git, set your name and email so commits are linked to you:
 bash
 git config --global user.name "Aishwarya"
 git config --global user.email "aishwarya2908@gmail.com"
+ 
+## 9. Install GitLens Extension
 
 
 ## ✅ Final Notes
